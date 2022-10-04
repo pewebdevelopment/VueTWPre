@@ -10,13 +10,6 @@ Get code & install. Then `dev` or `build` with [Vite](#vite-builds) or integrate
 * [Nuxt 3.x integration](#nuxt-3x-integration)
 * [Laravel 9.x integration](#laravel-9x-integration)
 
-### Get code & install
-
-#### Get the repo
-
-* [Create new repo](https://github.com/justboil/admin-one-vue-tailwind/generate) with this template
-* &hellip; or clone this repo on GitHub
-* &hellip; or [download .zip](https://github.com/justboil/admin-one-vue-tailwind/archive/master.zip) from GitHub
 
 #### Install
 
