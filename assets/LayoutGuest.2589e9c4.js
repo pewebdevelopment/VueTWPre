@@ -1,0 +1,1 @@
+import{aZ as a,o as t,h as r,g as o,A as l,B as c,e as n}from"./index.09c86132.js";const d={class:"bg-gray-50 dark:bg-slate-800 dark:text-slate-100"},k={__name:"LayoutGuest",setup(_){const e=a();return(s,u)=>(t(),r("div",{class:c({dark:n(e).darkMode})},[o("div",d,[l(s.$slots,"default")])],2))}};export{k as _};
